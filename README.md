@@ -14,7 +14,7 @@ WAREHOUSE Computer Vision Dataset by tawadhu3 (Roboflow Universe), CC BY 4.0.
 - [Export: ONNX]                   <- delete this line if you didn't do it
 
 ## Results
-mAP50: 0.988, mAP50-95: 0.619 on the validation split (145 images).
+mAP50: 0.977, mAP50-95: 0.622 on the validation split (145 images).
 Note: images are consecutive frames from fixed cameras, so these results are likely optimistic.
 
 ## Files
